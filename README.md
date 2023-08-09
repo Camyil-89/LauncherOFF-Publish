@@ -2,9 +2,8 @@
 ## Скачать
 **У вас с вероятностью в 99.99% стоит 64 битная версия Windows. для нее качайте [setupX64.zip](https://github.com/Camyil-89/LauncherOFF-Publish/files/12307299/setupX64.zip)**
 
-[setupX86.zip](https://github.com/Camyil-89/LauncherOFF-Publish/files/12307300/setupX86.zip) - Версия для 32 битной версии Windows.
-
-[setupX64.zip](https://github.com/Camyil-89/LauncherOFF-Publish/files/12307299/setupX64.zip) - Версия для 64 битной версии Windows.
+- [setupX86.zip](https://github.com/Camyil-89/LauncherOFF-Publish/files/12307300/setupX86.zip) - Версия для 32 битной версии Windows.
+- [setupX64.zip](https://github.com/Camyil-89/LauncherOFF-Publish/files/12307299/setupX64.zip) - Версия для 64 битной версии Windows.
 
 После того как скачали [setupX64.zip](https://github.com/Camyil-89/LauncherOFF-Publish/files/12307299/setupX64.zip) (желательно setupX64 если вы хотите пользоваться всеми доступными программами) после распаковки запускаете файл LauncherOFF.exe.
 
