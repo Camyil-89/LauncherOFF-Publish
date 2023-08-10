@@ -11,3 +11,4 @@
 ![image](https://github.com/Camyil-89/LauncherOFF-Publish/assets/76705837/d4cb13c3-3331-4988-9089-f5cf73ff2654)
 
 
+> Для проверки версии нажмите CTRL+i.
