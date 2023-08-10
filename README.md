@@ -1,4 +1,5 @@
 # LauncherOFF - лаунчер для приложений OFF.
+LauncherOFF сам проверяет наличие необходимых SDK и в случаях отсутствия скачивает их.
 ## Скачать
 [Installer.zip](https://github.com/Camyil-89/LauncherOFF-Publish/files/12317448/Installer.zip) - Скачиваете данный файл, распаковываете и запускаете.
 
