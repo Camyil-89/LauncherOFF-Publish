@@ -2,8 +2,8 @@
 <UpdateInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <LastVersions>
     <LastVersionInfo>
-      <Version>1.1</Version>
-      <Date>2023-08-11T00:00:00</Date>
+      <Version>1.2</Version>
+      <Date>2023-08-15T00:00:00</Date>
       <Type>Release</Type>
       <TypeSystem>x86</TypeSystem>
     </LastVersionInfo>
@@ -33,6 +33,20 @@
           <Path>\LauncherOFF.exe</Path>
           <Url>1.1\LauncherOFF.exe</Url>
           <Hash>2515d5f4833b71085daabeb9918a6b2e</Hash>
+          <Size>3099147</Size>
+        </FileInfo>
+      </Files>
+    </VersionInfo>
+    <VersionInfo>
+      <Type>Release</Type>
+      <TypeSystem>x86</TypeSystem>
+      <Version>1.2</Version>
+      <Date>2023-08-15T00:00:00</Date>
+      <Files>
+        <FileInfo>
+          <Path>\LauncherOFF.exe</Path>
+          <Url>1.2\LauncherOFF.exe</Url>
+          <Hash>e95ec777d64be2751d5dfad41bd4a4d2</Hash>
           <Size>3099147</Size>
         </FileInfo>
       </Files>
