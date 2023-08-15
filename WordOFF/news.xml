@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNews xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <News>
+    <Title>4.11.2.0</Title>
+    <Description>1. Исправлен баг.</Description>
+  </News>
+  <News>
+    <Title>4.11.1.0</Title>
+    <Description>1. Добавлена поддержка LauncherOFF.</Description>
+  </News>
   <News>
     <Title>4.11.0.0</Title>
     <Description>1. Добавлена функция "Использовать время создания WOFF файла" в сведениях .docx файла.</Description>
