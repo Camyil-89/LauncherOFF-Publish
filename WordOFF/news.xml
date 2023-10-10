@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNews xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <News>
-    <Title>4.11.2.0</Title>
-    <Description>1. Исправлен баг.</Description>
-  </News>
-  <News>
-    <Title>4.11.1.0</Title>
-    <Description>1. Добавлена поддержка LauncherOFF.</Description>
-  </News>
-  <News>
-    <Title>4.11.0.0</Title>
-    <Description>1. Добавлена функция "Использовать время создания WOFF файла" в сведениях .docx файла.</Description>
-  </News>
+        <Title>4.12.0.0</Title>
+        <Description>1.Исправлен баг с межстрочным интервалом у подписи изображения.
+2.Добавлена возможность делать ссылки на изображения в фрейме "Изображение"
+3.Исправлен баг с созданием PDF файла при котором удалялся весь текст после точки
+4.Добавлено автоматическое определение точки в конце предложения</Description>
+    </News>
+    <News>
+        <Title>4.11.2.0</Title>
+        <Description>1. Исправлен баг.</Description>
+    </News>
+    <News>
+        <Title>4.11.1.0</Title>
+        <Description>1. Добавлена поддержка LauncherOFF.</Description>
+    </News>
+    <News>
+        <Title>4.11.0.0</Title>
+        <Description>1. Добавлена функция "Использовать время создания WOFF файла" в сведениях .docx файла.</Description>
+    </News>
 </ArrayOfNews>
